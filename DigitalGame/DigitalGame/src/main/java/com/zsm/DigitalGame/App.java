@@ -1,4 +1,4 @@
-package com.zsm.DigitalGame;
+package com.zsm.digitalGame;
 
 /**
  * Hello world!
